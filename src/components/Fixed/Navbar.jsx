@@ -1,6 +1,8 @@
 import React from "react";
 const Navbar = () => {
-  return <div>Navbar</div>;
+  return <div>
+    <div className="continerr"></div>
+  </div>;
 };
 
 export default Navbar;
