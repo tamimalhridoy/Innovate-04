@@ -3,6 +3,8 @@ const Navbar = () => {
   return <div>
     <div className="container">
       <div>logo</div>
+      <div>logo</div>
+      <div>logo</div>
     </div>
   </div>;
 };
